@@ -31,6 +31,8 @@ func printScreen() {
 	}
 }
 
+// https://github.com/danicat/pacgo/blob/master/step02/README.md
+
 func main() {
 	// initialize game
 
